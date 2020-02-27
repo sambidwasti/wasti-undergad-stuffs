@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=ivel\ ang
+comment0.target=Cannonball(double,\ double)
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ Cannonball\ \r\n\ \ \ \ \ \ @param\ anIvel\ the\ initial\ velocity\ of\ the\ ball\r\n\ \ \ \ \ \ @param\ anAng\ the\ angle\ at\ which\ the\ cannonball\ was\ launched\r\n
+comment1.params=graphics\ height
+comment1.target=void\ draw(java.awt.Graphics2D,\ int)
+comment1.text=\r\n\ Draws\ the\ Cannonball\ on\ the\ graphics\ object.\ \ The\ height\ of\ the\ window\ is\r\n\ also\ passed\ in\ so\ that\ the\ ball's\ correct\ y\ location\ can\ be\ drawn.\r\n\ @param\ graphics\ the\ Graphics2D\ object\ on\ which\ this\ object\ draws\ itself\r\n\ @param\ height\ the\ heigth\ of\ the\ viewable\ window,\ used\ to\ calculate\ the\ ball's\r\n\ y\ location.\r\n
+comment2.params=deltaT
+comment2.target=void\ move(double)
+comment2.text=\r\n\ \ \ \ \ \ Updates\ the\ position\ and\ velocity\ of\ this\ cannon\ ball\ \r\n\ \ \ \ \ \ after\ a\ given\ time\ interval.\r\n\ \ \ \ \ \ @param\ deltaT\ the\ time\ interval\r\n
+comment3.params=g2
+comment3.target=void\ cannon(java.awt.Graphics2D)
+comment3.text=\r\n\tDraw\ a\ Cannon\ and\ point\ it\ according\ to\ the\ angle\r\n
+comment4.params=
+comment4.target=double\ getX()
+comment4.text=\r\n\ \ \ \ \ \ Gets\ the\ x\ position\ of\ this\ cannon\ ball.\r\n\ \ \ \ \ \ @return\ the\ horizontal\ position\r\n
+comment5.params=
+comment5.target=double\ getY()
+comment5.text=\r\n\ \ \ \ \ \ Gets\ the\ y\ position\ of\ this\ cannon\ ball.\r\n\ \ \ \ \ \ @return\ the\ vertical\ position\r\n
+comment6.params=
+comment6.target=double\ getAngle()
+comment6.text=\ \r\n\ \ \ \ \ \ Gets\ the\ angle\r\n\ \ \ \ \ \ @\ return\ the\ angle\r\n
+numComments=7
