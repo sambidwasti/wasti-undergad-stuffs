@@ -1,0 +1,88 @@
+
+Monte Carlo Results for L=1.00 Hard-Sphere 2-mer Fluid with N=128 at vf=0.01000
+Neighbor list in use with NUPDATE=10
+Lbox/sigma=29.93 (rho=0.00955) DR=0.020
+ISEED=12761 NEQL=2.00e+04 NRUN=1.00e+05 NACCUM=10
+
+initial delta=3.20  initial rlist=65.98
+Lx=30.15 Ly=28.00 Lz=31.76 (nx_max=15 ny_max=14 nz_max=15)
+Equil Update 1: delta=3.5192 (rlist=72.3834) gamma=0.5500 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=3.5192 gamma1=0.5500 alpha1=0.5500 
+Equil Update 2: delta=3.8711 (rlist=79.4217) gamma=0.6050 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=3.8711 gamma1=0.6050 alpha1=0.6050 
+Equil Update 3: delta=4.2582 (rlist=87.1639) gamma=0.6655 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=4.2582 gamma1=0.6655 alpha1=0.6655 
+Equil Update 4: delta=4.6840 (rlist=95.6803) gamma=0.7321 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=4.6840 gamma1=0.7321 alpha1=0.7321 
+Equil Update 5: delta=5.1524 (rlist=105.0483) gamma=0.8053 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=5.1524 gamma1=0.8053 alpha1=0.8053 
+Equil Update 6: delta=5.6677 (rlist=115.3532) gamma=0.8858 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=5.6677 gamma1=0.8858 alpha1=0.8858 
+Equil Update 7: delta=6.2344 (rlist=126.6885) gamma=0.9744 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=6.2344 gamma1=0.9744 alpha1=0.9744 
+Equil Update 8: delta=6.8579 (rlist=139.1573) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=6.8579 gamma1=1.0000 alpha1=1.0718 
+Equil Update 9: delta=7.5437 (rlist=152.8730) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=7.5437 gamma1=1.0000 alpha1=1.1790 
+Equil Update 10: delta=8.2980 (rlist=167.9603) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=8.2980 gamma1=1.0000 alpha1=1.2969 
+Equil Update 11: delta=9.1278 (rlist=184.5564) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=9.1278 gamma1=1.0000 alpha1=1.4266 
+Equil Update 12: delta=10.0406 (rlist=202.8120) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=10.0406 gamma1=1.0000 alpha1=1.5692 
+Equil Update 13: delta=11.0447 (rlist=222.8932) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=11.0447 gamma1=1.0000 alpha1=1.7261 
+Equil Update 14: delta=12.1491 (rlist=244.9825) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=12.1491 gamma1=1.0000 alpha1=1.8987 
+Equil Update 15: delta=13.3640 (rlist=269.2808) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=13.3640 gamma1=1.0000 alpha1=2.0886 
+Equil Update 16: delta=14.7004 (rlist=296.0089) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=14.7004 gamma1=1.0000 alpha1=2.2975 
+Equil Update 17: delta=16.1705 (rlist=325.4098) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=16.1705 gamma1=1.0000 alpha1=2.5272 
+Equil Update 18: delta=17.7875 (rlist=357.7507) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=17.7875 gamma1=1.0000 alpha1=2.7800 
+Equil Update 19: delta=19.5663 (rlist=393.3258) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=19.5663 gamma1=1.0000 alpha1=3.0580 
+Equil Update 20: delta=21.5229 (rlist=432.4584) gamma=1.0000 alpha=0.5000  nlist_end=65024 (max=65024)
+               : delta1=21.5229 gamma1=1.0000 alpha1=3.1416 
+NEQL= 2.00e+04  (Final Equil tran_accept:  94.6%  rot_accept: 98.9%  axl_accept: 0.0%)
+            (Final Equil chain part  chntrans_accpt:  93.4%  chnend_accpt: 84.5%  chnaxl_accpt: 99.2%)
+
+rlist exceeds rlist_max (=25.988): No list updating
+       Block 1 complete (10000 cycles): 
+       Block 2 complete (20000 cycles): 
+       Block 3 complete (30000 cycles): 
+       Block 4 complete (40000 cycles): 
+       Block 5 complete (50000 cycles): 
+       Block 6 complete (60000 cycles): 
+       Block 7 complete (70000 cycles): 
+       Block 8 complete (80000 cycles): 
+       Block 9 complete (90000 cycles): 
+       Block 10 complete (100000 cycles): 
+NRUN= 1.00e+05  (Final Prod accept for the solvent: Translate=94.6%, End-bead rotation=98.8%
+NRUN= 1.00e+05  (Final Prod accept for the Chain: Translate=92.9%, End-bead rotation=84.8%Axial Rotation=99.25%
+<r1n^2> = 2.4916 +- 0.0213
+<Rg^2>  = 16.9380 +- 1.7575
+
+  r       P13 (r)
+1.0250  0.664 +/- 0.097    
+1.0750  0.776 +/- 0.175    
+1.1250  0.782 +/- 0.076    
+1.1750  0.738 +/- 0.106    
+1.2250  0.788 +/- 0.121    
+1.2750  0.842 +/- 0.092    
+1.3250  0.890 +/- 0.186    
+1.3750  0.880 +/- 0.066    
+1.4250  0.982 +/- 0.150    
+1.4750  0.996 +/- 0.096    
+1.5250  1.090 +/- 0.143    
+1.5750  1.058 +/- 0.145    
+1.6250  1.086 +/- 0.146    
+1.6750  1.142 +/- 0.148    
+1.7250  1.206 +/- 0.165    
+1.7750  1.152 +/- 0.170    
+1.8250  1.166 +/- 0.119    
+1.8750  1.250 +/- 0.100    
+1.9250  1.248 +/- 0.136    
+1.9750  1.264 +/- 0.157    

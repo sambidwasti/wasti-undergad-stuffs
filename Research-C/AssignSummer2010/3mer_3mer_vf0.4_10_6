@@ -1,0 +1,52 @@
+
+Monte Carlo Results for L=1.00 Hard-Sphere 3-mer Fluid with N=128 at vf=0.40000
+Neighbor list in use with NUPDATE=10
+Lbox/sigma=11.47 (rho=0.25465) DR=0.020
+ISEED=12761 NEQL=2.00e+05 NRUN=1.00e+06 NACCUM=10
+
+initial delta=0.23  initial rlist=6.56
+Lx=12.04 Ly=10.50 Lz=11.93 (nx_max=4 ny_max=7 nz_max=7)
+Equil Update 1: delta=0.2507 (rlist=7.0131) gamma=0.5500 alpha=0.5500  nlist_end=119748 (max=146560)
+               : delta1=0.2507 gamma1=0.5500 alpha1=0.5500 
+Equil Update 2: delta=0.2757 (rlist=7.5144) gamma=0.6050 alpha=0.6050  nlist_end=131762 (max=146560)
+               : delta1=0.2757 gamma1=0.6050 alpha1=0.6050 
+Equil Update 3: delta=0.3033 (rlist=8.0658) gamma=0.6655 alpha=0.6655  nlist_end=140356 (max=146560)
+               : delta1=0.3033 gamma1=0.6655 alpha1=0.6655 
+Equil Update 4: delta=0.3336 (rlist=8.6724) gamma=0.7321 alpha=0.7321  nlist_end=144808 (max=146560)
+               : delta1=0.3336 gamma1=0.7321 alpha1=0.7321 
+Equil Update 5: delta=0.3670 (rlist=9.3396) gamma=0.8053 alpha=0.8053  nlist_end=146368 (max=146560)
+               : delta1=0.3670 gamma1=0.8053 alpha1=0.8053 
+Equil Update 6: delta=0.4037 (rlist=10.0736) gamma=0.8858 alpha=0.8858  nlist_end=146560 (max=146560)
+               : delta1=0.4037 gamma1=0.8858 alpha1=0.8858 
+Equil Update 7: delta=0.4440 (rlist=10.8810) gamma=0.9744 alpha=0.9744  nlist_end=146560 (max=146560)
+               : delta1=0.4440 gamma1=0.9744 alpha1=0.9744 
+Equil Update 8: delta=0.4885 (rlist=11.7690) gamma=1.0000 alpha=1.0718  nlist_end=146560 (max=146560)
+               : delta1=0.4885 gamma1=1.0000 alpha1=1.0718 
+Equil Update 9: delta=0.5373 (rlist=12.7460) gamma=1.0000 alpha=1.1790  nlist_end=146560 (max=146560)
+               : delta1=0.5373 gamma1=1.0000 alpha1=1.1790 
+Equil Update 10: delta=0.4885 (rlist=11.7690) gamma=1.0000 alpha=1.2969  nlist_end=146560 (max=146560)
+               : delta1=0.4885 gamma1=1.0000 alpha1=1.2969 
+Equil Update 11: delta=0.5373 (rlist=12.7460) gamma=1.0000 alpha=1.4266  nlist_end=146560 (max=146560)
+               : delta1=0.5373 gamma1=1.0000 alpha1=1.4266 
+Equil Update 12: delta=0.4885 (rlist=11.7690) gamma=1.0000 alpha=1.5692  nlist_end=146560 (max=146560)
+               : delta1=0.4885 gamma1=1.0000 alpha1=1.5692 
+Equil Update 13: delta=0.5373 (rlist=12.7460) gamma=1.0000 alpha=1.7261  nlist_end=146560 (max=146560)
+               : delta1=0.5373 gamma1=1.0000 alpha1=1.7261 
+Equil Update 14: delta=0.4885 (rlist=11.7690) gamma=1.0000 alpha=1.8987  nlist_end=146560 (max=146560)
+               : delta1=0.4885 gamma1=1.0000 alpha1=1.8987 
+Equil Update 15: delta=0.5373 (rlist=12.7460) gamma=1.0000 alpha=2.0886  nlist_end=146560 (max=146560)
+               : delta1=0.5373 gamma1=1.0000 alpha1=2.0886 
+Equil Update 16: delta=0.4885 (rlist=11.7690) gamma=1.0000 alpha=2.2975  nlist_end=146560 (max=146560)
+               : delta1=0.4885 gamma1=1.0000 alpha1=2.2975 
+Equil Update 17: delta=0.5373 (rlist=12.7460) gamma=1.0000 alpha=2.5272  nlist_end=146560 (max=146560)
+               : delta1=0.5373 gamma1=1.0000 alpha1=2.5272 
+Equil Update 18: delta=0.4885 (rlist=11.7690) gamma=1.0000 alpha=2.7800  nlist_end=146560 (max=146560)
+               : delta1=0.4885 gamma1=1.0000 alpha1=2.7800 
+Equil Update 19: delta=0.5373 (rlist=12.7460) gamma=1.0000 alpha=3.0580  nlist_end=146560 (max=146560)
+               : delta1=0.5373 gamma1=1.0000 alpha1=3.0580 
+Equil Update 20: delta=0.4885 (rlist=11.7690) gamma=1.0000 alpha=3.1416  nlist_end=146560 (max=146560)
+               : delta1=0.4885 gamma1=1.0000 alpha1=3.1416 
+NEQL= 2.00e+05  (Final Equil tran_accept:  47.7%  rot_accept: 57.3%  axl_accept: 75.2%)
+            (Final Equil chain part  chntrans_accpt:  48.5%  chnend_accpt: 57.6%  chnaxl_accpt: 74.8%)
+
+rlist exceeds rlist_max (=9.969): No list updating
