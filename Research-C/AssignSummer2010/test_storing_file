@@ -1,8 +1,0 @@
-#include <stdio.h>
-main()
-{	
-	double r,a,c;
-	FILE *inp, *outp;
-	printf("\n Enter a value\n")
-
-}
